@@ -11,12 +11,12 @@ export const MenuItems2 =[
         linkName : "nav-links",
         icon : "fa-solid fa-circle-info"
     },
-    // {
-    //     title2 : "Transaksi",
-    //     url : "/transaksi",
-    //     linkName : "nav-links",
-    //     icon : "fa-solid fa-briefcase"
-    // },
+    {
+        title2 : "Transaksi",
+        url : "/transaksi",
+        linkName : "nav-links",
+        icon : "fa-solid fa-briefcase"
+    },
     {
         title2 : "Payment",
         url : "/paymentForm2",
